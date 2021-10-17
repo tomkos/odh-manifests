@@ -26,4 +26,4 @@ commonLabels:
 images:
   - name: spark-cluster-image
     newName: quay.io/opendatahub/spark-cluster-image
-    newTag: 3.0.0-h3.2
+    newTag: 2.4.3-h2.7
